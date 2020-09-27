@@ -20,9 +20,9 @@ Java Development Project
 
 ## Note
 
-## Auther
+## Author
 
-- Auther: CCWO
+- Author: CCWO
 - E-mail: cc.ccwo.cc@gmail.com
 
 ## License
