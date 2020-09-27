@@ -1,0 +1,13 @@
+package exday3;
+
+public class SamleClassEx301 {
+  public static void main(final String args[]) {
+    Crow1 c = new Crow1();
+    Sparrow1 s = new Sparrow1();
+
+    System.out.print(c.getName()+"：");
+    c.sing();
+    System.out.print(s.getName()+"：");
+    s.sing();
+  }
+}
